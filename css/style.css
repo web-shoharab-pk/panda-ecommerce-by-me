@@ -1,0 +1,44 @@
+.button{
+    padding: 10px 30px;
+    color: white;
+    background-color: #FF2178;
+    border: 0;
+}
+.container {
+    margin-bottom: 5em;
+    width: 75vw;
+}
+.border-radius{
+     
+    border-radius: 10px;
+}
+ 
+.categories img{
+    width: 100px;
+}
+.shoes-bg{
+    color: white;
+    background-color: #FFA500;
+   
+}
+.bag-bg{
+    color: white;
+    background-color: #DA70D6;
+
+}
+.watch-bg{
+    color: white;
+    background-color: #0000FF;
+  
+}
+.all-card{
+    border: 0;
+}
+.all-card-footer{
+    background-color: white;
+    border: 0;
+}
+#subscribe{
+    box-sizing: border-box;
+    background-color: #FEEAE9;
+}
