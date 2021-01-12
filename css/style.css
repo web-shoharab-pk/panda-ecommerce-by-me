@@ -6,8 +6,9 @@
 }
 .container {
     margin-bottom: 5em;
-    width: 75vw;
+    /* width: 75vw; */
 }
+ 
 .border-radius{
      
     border-radius: 10px;
@@ -41,4 +42,49 @@
 #subscribe{
     box-sizing: border-box;
     background-color: #FEEAE9;
+}
+
+@media(max-width: 1199px){
+
+    .carousel{
+        height: 30em;
+    }
+
+     
+}
+@media(max-width: 992px){
+
+    .carousel{
+        height: 25em;
+    }
+
+}
+@media(max-width: 767px){
+
+    .carousel{
+        height: 53em;
+    }
+
+}
+
+@media(max-width: 530px){
+
+    .carousel{
+        height: 50em;
+    }
+
+}
+@media(max-width: 380px){
+
+    .carousel{
+        height: 45em;
+    }
+
+}
+@media(max-width: 300px){
+
+    .carousel{
+        height: 40em;
+    }
+
 }
